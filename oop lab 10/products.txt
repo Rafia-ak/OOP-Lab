@@ -1,0 +1,3 @@
+p1 Laptop HighPerfLaptop 1200
+p2 Mouse WirelessMouse 30
+p3 Keyboard MechanicalKeyboard 80
